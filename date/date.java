@@ -1,5 +1,5 @@
 package date;
-import java.util.*;
+import java.util.Scanner;
 
 class calc{
 	 int dt,mn,yr,rm,cn,var1,mnf,rem,mnc,yrc,i,val1,fin,val,loop = 0;
