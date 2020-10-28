@@ -1,4 +1,4 @@
-package source;
+
 import java.util.*;
 public class CrossWord {
 	static String src[][]={{"T","H","S","M","A","L","L","T","R","P","T","L","A"},
