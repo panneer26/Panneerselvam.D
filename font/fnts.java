@@ -1,4 +1,4 @@
-package font;
+
 import java.util.*;
 class trf{
 	Scanner s=new Scanner(System.in);
