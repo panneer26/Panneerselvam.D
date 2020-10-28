@@ -1,4 +1,4 @@
-package date;
+
 import java.util.Scanner;
 
 class calc{
